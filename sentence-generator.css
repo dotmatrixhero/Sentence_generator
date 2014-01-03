@@ -1,0 +1,53 @@
+/* Brian Park
+   sentence-generator.css is a css file for sentence-generator.html.
+   It has a blue-gray theme. 
+
+*/
+
+body {
+    color:white;
+    background-color:gray;
+}
+
+
+h1 {
+    color:#111110;
+}
+
+
+.container {
+    max-width:90%;
+    margin-top:10%;
+    border: 20px solid #005b9a;
+    background-color:teal;
+}
+
+.row-fluid {
+    background-color:teal;
+}
+
+
+
+div .word-block{
+    border: 3px solid #0059ea;
+    border-radius: 5px;
+    padding:5px;
+    text-align:center;
+    background-color:#005b9a;
+
+}
+
+div .dropdown, h1 {
+    padding-left:5%;
+    padding-right:5%;
+}
+
+#sentence, #generate-line {
+    padding:10px;
+    text-align:center;
+}
+
+.blue {
+    color:blue;
+}
+
